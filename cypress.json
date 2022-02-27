@@ -1,0 +1,9 @@
+{
+    "baseUrl":"http://localhost:3000/",
+    "env": {
+        "supportEmail": "printz@vertisjm.com",
+        "supportPassword": "Password1"
+    },
+    "viewportWidth": 1600,
+    "viewportHeight": 1000
+}
